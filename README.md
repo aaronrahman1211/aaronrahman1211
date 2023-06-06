@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron Rahman</h1>
+<h1 align="center">Hi👋, I'm Aaron Rahman</h1>
 
 <h3 align="center">I am a skilled Full Stack Developer with 7 years of professional experience. I have extensive knowledge of the entire web development process, from front-end to back-end, and I am a programming language and technology expert.</h3>
 
