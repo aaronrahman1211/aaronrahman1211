@@ -1,8 +1,7 @@
 <h1 align="center">Hi👋, I'm Aaron Rahman</h1>
-
 <h3 align="center">I am a skilled Full Stack Developer with 7 years of professional experience. I have extensive knowledge of the entire web development process, from front-end to back-end, and I am a programming language and technology expert.</h3>
-
 - 🔭 I’m currently looking for **Full Stack projects now.**
+
 - 📫 How to reach me **aaronrahman1211@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
